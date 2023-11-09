@@ -5,7 +5,7 @@ Questo workshop unico ti guiderà attraverso il processo coinvolgente di costruz
 
 ## Cosa Realizzeremo
 
-Durante questo workshop, avrai l'opportunità di creare un'imponente drum machine controllata da un step sequencer hardware, personalizzabile in base alla tua preferenza tra Bela.io, Arduino o Raspberry Pi. Esploreremo le peculiarità di ciascuna piattaforma, offrendoti un'esperienza di apprendimento completa e adattabile alle tue esigenze.
+Durante questo workshop, avrai l'opportunità di creare un'imponente drum machine controllata da un step sequencer hardware, personalizzabile in base alla nostra preferenza tra Bela.io, Arduino o Raspberry Pi.
 
 ## Argomenti Principali
 
