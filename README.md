@@ -3,13 +3,13 @@
 Benvenuto al Workshop giant-drum-machine proposto da Link 2.0 di Bologna.
 Questo workshop unico ti guiderà attraverso il processo coinvolgente di costruzione di un potente step sequencer hardware per la produzione musicale pero *GIGANTE* (sì, sì hai capito bene. A grandezza umana!).
 
-## Cosa Realizzeremo
+## Cosa realizzeremo
 
-Durante questo workshop, avrai l'opportunità di creare un'imponente drum machine controllata da un step sequencer hardware, personalizzabile in base alla nostra preferenza tra Bela.io, Arduino o Raspberry Pi.
+Durante questo workshop, avrai l'opportunità di creare un'imponente drum machine controllata da un step sequencer hardware costruito con bela.io e pureData.
 
-## Argomenti Principali
+## Argomenti
 
-- **Introduzione alle Piattaforme:** Una panoramica sulle caratteristiche di Bela.io, Arduino e Raspberry Pi per la produzione musicale e scelta della piattaforma più adatta alle nostre necessità.
+- **Introduzione alle Piattaforme:** Una panoramica sulle caratteristiche di Bela.io per la produzione musicale e scelta della piattaforma più adatta alle nostre necessità.
 
 - **Configurazione Iniziale:** Guida dettagliata sulla preparazione dell'ambiente di sviluppo per la piattaforma scelta.
 
@@ -19,9 +19,19 @@ Durante questo workshop, avrai l'opportunità di creare un'imponente drum machin
 
 - **Personalizzazione Creativa:** Aggiunta di funzionalità avanzate, sfruttando le potenzialità uniche di utilizzare una scheda programmata.
 
+## Principali lezioni
+
+- **Introduzione a Bela.io:** Panoramica dell'hardware e del suo ecosistema, enfatizzando la sua idoneità per progetti musicali interattivi.
+- **Fondamenti di Pure Data:** Breve introduzione all'ambiente di programmazione visuale, focalizzata sull'elaborazione del suono e sulla creazione di ritmi.
+- **Progettazione della Drum Machine:** Discussione delle tecniche di progettazione e sviluppo di un'interfaccia utente intuitiva per la drum machine.
+- **Integrazione e Sviluppo:** Istruzioni passo-passo per integrare Bela.io con Pure Data, culminando nella creazione di una drum machine funzionante.
+- **Personalizzazione:** Sessione pratica dove i partecipanti possono esplorare e personalizzare il suono e l'aspetto della loro drum machine.
+- **Collaborazione e Feedback:** Spazio per la condivisione delle creazioni, incoraggiando il feedback e la collaborazione tra i partecipanti.
+
+
 ## Requisiti
 
-Il workshop è adatto a partecipanti di tutti i livelli, dai principianti ai più esperti. La scelta della piattaforma (Bela.io, Arduino o Raspberry Pi) sarà tua, quindi assicurati di avere gli strumenti hardware necessari in base alla tua decisione.
+Il workshop è adatto a partecipanti di tutti i livelli, dai principianti ai più esperti. Sono un plus le conoscenze in programmazione a oggetti, stampa 3D, modeling 3D, audio engineering, stampa PCB e breadboarding. 
 
 ## Come Partecipare
 
@@ -29,7 +39,7 @@ Il workshop è adatto a partecipanti di tutti i livelli, dai principianti ai pi�
 
 2. **Preparati:** Segui le istruzioni nella sezione "Getting Started" per assicurarti di avere tutto il necessario per partecipare alla creazione di questo progetto.
 
-3. **Partecipa Attivamente:** Il workshop sarà interattivo e pratico. Preparati a sperimentare e a creare il tuo step sequencer drum machine.
+3. **Partecipa Attivamente:** Il workshop sarà interattivo e pratico. Preparati a sperimentare e a creare!
 
 ## Risorse Aggiuntive
 
